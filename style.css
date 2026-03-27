@@ -1,0 +1,28 @@
+body{
+    margin: 0;
+    font-family: Arial;
+    background-color: white;
+}
+
+/* Header */
+header{
+    background-color: green;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+/* iogo */
+logo {
+    width:80px ;
+}
+/* navigation */
+nav a{
+    color: white;
+    margin: 10px;
+    text-decoration: none;
+}
+/* sections */
+section{
+    padding: 20px;
+    text-align: center;
+}
